@@ -7,9 +7,9 @@
 
 - 1、[数组（Array）]((https://evansnote.readthedocs.io/zh_CN/latest/DataStructuresAndAlgorithms-note/DataStructures/Array.html))
 - 2、[栈（Stack）](https://evansnote.readthedocs.io/zh_CN/latest/DataStructuresAndAlgorithms-note/DataStructures/Stack.html)
-- 3、队列（Queue）
-- 4、链表（Linked List）
-- 5、树（Tree）
-- 6、散列表（Hash）
-- 7、堆（Heap）
-- 8、图（Graph）
+- 3、[队列（Queue）](https://evansnote.readthedocs.io/zh_CN/latest/DataStructuresAndAlgorithms-note/DataStructures/Queue.html)
+- 4、[链表（Linked List）](https://evansnote.readthedocs.io/zh_CN/latest/DataStructuresAndAlgorithms-note/DataStructures/LinkedList.html)
+- 5、[树（Tree）](https://evansnote.readthedocs.io/zh_CN/latest/DataStructuresAndAlgorithms-note/DataStructures/Tree.html)
+- 6、[散列表（Hash）](https://evansnote.readthedocs.io/zh_CN/latest/DataStructuresAndAlgorithms-note/DataStructures/Hash.html)
+- 7、[堆（Heap）](https://evansnote.readthedocs.io/zh_CN/latest/DataStructuresAndAlgorithms-note/DataStructures/Heap.html)
+- 8、[图（Graph）](https://evansnote.readthedocs.io/zh_CN/latest/DataStructuresAndAlgorithms-note/DataStructures/Graph.html)

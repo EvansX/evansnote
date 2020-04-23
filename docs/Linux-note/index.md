@@ -5,8 +5,5 @@
    :maxdepth: 1
 
    README.md
-   install.md
-   interface.md
-   upgrade.md
-   appendix.md
+   
 ```
