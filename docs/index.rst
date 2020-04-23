@@ -6,11 +6,10 @@ Evans-Note 知识笔记
 
 .. admonition:: Overview
 
-    - 数据库知识笔记 https://evansnote.readthedocs.io/zh_CN/latest/Database-note/index.html
-    - 数据结构和算法知识笔记 https://evansnote.readthedocs.io/zh_CN/latest/DataStructuresAndAlgorithms-note/index.html
-    - Linux知识笔记 https://evansnote.readthedocs.io/zh_CN/latest/Linux-note/index.html
-    - 编程语言知识笔记 https://evansnote.readthedocs.io/zh_CN/latest/ProgrammingLanguages-note/index.html
-    - 编程语言知识笔记 `编程 <https://evansnote.readthedocs.io/zh_CN/latest/ProgrammingLanguages-note/index.html>`_
+    - `数据库知识笔记 <https://evansnote.readthedocs.io/zh_CN/latest/Database-note/index.html>`_
+    - `数据结构和算法知识笔记 <https://evansnote.readthedocs.io/zh_CN/latest/DataStructuresAndAlgorithms-note/index.html>`_
+    - `Linux知识笔记 <https://evansnote.readthedocs.io/zh_CN/latest/Linux-note/index.html>`_
+    - `编程语言知识笔记 <https://evansnote.readthedocs.io/zh_CN/latest/ProgrammingLanguages-note/index.html>`_
 
 .. toctree::
    :maxdepth: 3
