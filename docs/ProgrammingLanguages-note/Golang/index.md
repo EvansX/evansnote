@@ -1,4 +1,4 @@
-# Node.js知识笔记
+# Golang知识笔记
 
 ```eval_rst
 .. toctree::
