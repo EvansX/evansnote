@@ -1,1 +1,1 @@
-# 分治算法（Divide And Conquer）
+# 分治算法（Divide&Conquer）
