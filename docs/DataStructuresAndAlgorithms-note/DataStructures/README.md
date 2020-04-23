@@ -5,8 +5,8 @@
 
 ```eval_rst
 
-- 1、`数组（Array）<./Array.html>`_
-- 2、[栈（Stack）](Stack.md)
+- 1、[数组（Array）]((https://evansnote.readthedocs.io/zh_CN/latest/DataStructuresAndAlgorithms-note/DataStructures/Array.html))
+- 2、[栈（Stack）](https://evansnote.readthedocs.io/zh_CN/latest/DataStructuresAndAlgorithms-note/DataStructures/Stack.html)
 - 3、队列（Queue）
 - 4、链表（Linked List）
 - 5、树（Tree）
