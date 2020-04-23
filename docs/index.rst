@@ -2,7 +2,7 @@
 Evans-Note 知识笔记
 ##############################################################
 
-.. image:: ./logo/logo.png
+.. image:: ./_static/images/logo.png
 
 .. admonition:: Overview
 
