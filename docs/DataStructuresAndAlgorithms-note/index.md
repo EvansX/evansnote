@@ -6,4 +6,5 @@
 
    README.md
    DataStructures/index.md
+   Algorithms/index.md
 ```

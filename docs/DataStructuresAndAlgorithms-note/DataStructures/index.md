@@ -6,4 +6,13 @@
 
    
    README.md
+   Array.md
+   Stack.md
+   Queue.md
+   LinkedList.md
+   Tree.md
+   Graph.md
+   Heap.md
+   Hash.md
+
 ```
