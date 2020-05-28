@@ -34,6 +34,7 @@
 ![5.png](./assets/5.png)
 ![6.png](./assets/6.png)
 ![7.png](./assets/7.png)
+
 负载均衡设计应尽量保持均衡
 ### 伸缩立方
 ![8.png](./assets/8.png)
@@ -161,7 +162,8 @@ $ sudo docker run --name=cs -p 8500:8500 consual agent -server -bootstrap -ui -c
 微服务：从设计到部署
 
 ## go-micro微服务开发库
-![9459399e54e99cae774b7ea5654a484d.png](en-resource://database/2852:0)
+![19.png](./assets/19.png)
+
 Micro API
 - API
 将http请求映射到API接口
