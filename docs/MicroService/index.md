@@ -5,6 +5,5 @@
    :maxdepth: 1
 
    README.md
-   Nginx/index.md
-   Apache/index.md
+   golang/index.md
 ```
