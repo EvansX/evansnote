@@ -1,4 +1,4 @@
-# Redis知识笔记
+# MySql知识笔记
 
 ```eval_rst
 .. toctree::

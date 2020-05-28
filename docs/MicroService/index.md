@@ -5,7 +5,6 @@
    :maxdepth: 1
 
    README.md
-   MySql/index.md
-   Redis/index.md
-   MongoDB/index.md
+   Nginx/index.md
+   Apache/index.md
 ```
