@@ -10,6 +10,7 @@ Evans-Note 知识笔记
     - `数据结构和算法知识笔记 <https://evansnote.readthedocs.io/zh_CN/latest/DataStructuresAndAlgorithms-note/index.html>`_
     - `Linux知识笔记 <https://evansnote.readthedocs.io/zh_CN/latest/Linux-note/index.html>`_
     - `编程语言知识笔记 <https://evansnote.readthedocs.io/zh_CN/latest/ProgrammingLanguages-note/index.html>`_
+    - `编程语言知识笔记 <https://evansnote.readthedocs.io/zh_CN/latest/Blockchain-note/index.html>`_
 
 .. toctree::
    :maxdepth: 3
