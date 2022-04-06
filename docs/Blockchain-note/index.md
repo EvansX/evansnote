@@ -5,5 +5,6 @@
    :maxdepth: 1
 
    README.md
-   golang/index.md
+   deso-protocol/index.md
+   juicebox-protocol/index.md
 ```
